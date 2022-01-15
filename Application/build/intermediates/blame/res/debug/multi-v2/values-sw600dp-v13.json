@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/res/values-sw600dp/dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "692,760",
+                        "endColumns": "67,67",
+                        "endOffsets": "755,823"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "611,679",
+                        "endColumns": "67,67",
+                        "endOffsets": "674,742"
+                    }
+                },
+                {
+                    "source": "/home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b278f1c7a21ae7cafb268ac093c28e5c/appcompat-1.1.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/res/values-sw600dp/styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "657",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "890"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "747",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "980"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Thu Jan 06 19:40:22 CST 2022
+base.0=/home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

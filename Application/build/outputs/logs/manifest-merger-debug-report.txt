@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:17:1-40:12
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/ad46c0c3a41ba1d8b12c769b6799ad3e/hugo-runtime-1.2.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b278f1c7a21ae7cafb268ac093c28e5c/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b389d1c8fdba942cec146bd3c21af551/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/28397bba1fa3b2b30092bb2d2856bd49/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/54176b7fd39d43a106e5570c9e801a07/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/d41e36f382a0fc2e9c27fa2d995833dd/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/f5c7eed139d395b7a839a2b33648c23a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/71f4f05b533f505d2383e3bbefbedaf4/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/d7158005062836df6b1fd56805689670/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/14b3a5d82395d6f9c6be87f79ef45767/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b070f335fe5fd8ad5720494edd86fb7d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/f6ccbeab82ee13569bb9f9acb16a92d3/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/2d46b211b23524028a3aef1b69e77537/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/1348bf94353dae66397ce60acf059ff0/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/ab375398b46992fe3a81ef64beb413b0/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/d180dd0d8d1a3556ba59d8f306d14ca0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/0349786d313722033ae4310ac510a801/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/40fd8eb041ac123e15f76dc82df15056/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/fa2450a302bd49e99e3241dbabb950af/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b95b539ba0535fe3d4fa175e188aed83/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/7d7f1952eff0687d4389812dab37a682/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:20:5-47
+	xmlns:tools
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:18:5-63
+application
+ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:22:5-38:19
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/ad46c0c3a41ba1d8b12c769b6799ad3e/hugo-runtime-1.2.1/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/ad46c0c3a41ba1d8b12c769b6799ad3e/hugo-runtime-1.2.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/f6ccbeab82ee13569bb9f9acb16a92d3/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/f6ccbeab82ee13569bb9f9acb16a92d3/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/1348bf94353dae66397ce60acf059ff0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/1348bf94353dae66397ce60acf059ff0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/f6ccbeab82ee13569bb9f9acb16a92d3/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:25:9-41
+	tools:ignore
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:27:9-48
+	android:icon
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:26:9-40
+activity#com.example.android.mediaeffects.MainActivity
+ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:30:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
+INJECTED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/ad46c0c3a41ba1d8b12c769b6799ad3e/hugo-runtime-1.2.1/AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/ad46c0c3a41ba1d8b12c769b6799ad3e/hugo-runtime-1.2.1/AndroidManifest.xml:7:5-43
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b278f1c7a21ae7cafb268ac093c28e5c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b278f1c7a21ae7cafb268ac093c28e5c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b389d1c8fdba942cec146bd3c21af551/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b389d1c8fdba942cec146bd3c21af551/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/28397bba1fa3b2b30092bb2d2856bd49/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/28397bba1fa3b2b30092bb2d2856bd49/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/54176b7fd39d43a106e5570c9e801a07/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/54176b7fd39d43a106e5570c9e801a07/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/d41e36f382a0fc2e9c27fa2d995833dd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/d41e36f382a0fc2e9c27fa2d995833dd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/f5c7eed139d395b7a839a2b33648c23a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/f5c7eed139d395b7a839a2b33648c23a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/71f4f05b533f505d2383e3bbefbedaf4/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/71f4f05b533f505d2383e3bbefbedaf4/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/d7158005062836df6b1fd56805689670/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/d7158005062836df6b1fd56805689670/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/14b3a5d82395d6f9c6be87f79ef45767/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/14b3a5d82395d6f9c6be87f79ef45767/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b070f335fe5fd8ad5720494edd86fb7d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b070f335fe5fd8ad5720494edd86fb7d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/f6ccbeab82ee13569bb9f9acb16a92d3/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/f6ccbeab82ee13569bb9f9acb16a92d3/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/2d46b211b23524028a3aef1b69e77537/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/2d46b211b23524028a3aef1b69e77537/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/1348bf94353dae66397ce60acf059ff0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/1348bf94353dae66397ce60acf059ff0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/ab375398b46992fe3a81ef64beb413b0/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/ab375398b46992fe3a81ef64beb413b0/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/d180dd0d8d1a3556ba59d8f306d14ca0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/d180dd0d8d1a3556ba59d8f306d14ca0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/0349786d313722033ae4310ac510a801/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/0349786d313722033ae4310ac510a801/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/40fd8eb041ac123e15f76dc82df15056/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/40fd8eb041ac123e15f76dc82df15056/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/fa2450a302bd49e99e3241dbabb950af/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/fa2450a302bd49e99e3241dbabb950af/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b95b539ba0535fe3d4fa175e188aed83/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/b95b539ba0535fe3d4fa175e188aed83/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/7d7f1952eff0687d4389812dab37a682/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/michael/workspace/gradle_tools/gradle-6.7.1/bin/caches/transforms-2/files-2.1/7d7f1952eff0687d4389812dab37a682/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
+INJECTED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
+		ADDED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/michael/workspace/android_project_google_opengl_demo/graphics-samples-main/MediaEffects/Application/src/main/AndroidManifest.xml
